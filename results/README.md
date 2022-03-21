@@ -12,6 +12,7 @@ These are reference freqbench results that have been collected from various devi
 | mt6853t    | MT6853T   | Dimensity 800U  | Xiaomi Redmi Note 9T    | Unknown  |
 | mt6768     | MT6769V/CB| Helio G70       | Realme C3               | Unknown  |
 | exynos5250 | E5250     | Exynos 5250     | Google Nexus 10         | Low      |
+| exynos7904 | E7904     | Exynos 7904     | Samsung Galaxy M20      | Unknown  |
 | exynos9611 | E9610     | Exynos 9611     | Samsung Galaxy M21      | Unknown  |
 | msm8917    | MSM8917   | Snapdragon 425  | Xiaomi Redmi 5A         | Unknown  |
 | msm8940    | MSM8940   | Snapdragon 435  | Xiaomi Redmi 4X         | Unknown  |
@@ -26,6 +27,7 @@ These are reference freqbench results that have been collected from various devi
 | sm6150     | SM6150    | Snapdragon 675  | Xiaomi Redmi Note 7 Pro | Unknown  |
 | sm6150ac   | SM6150-AC | Snapdragon 678  | Xiaomi Redmi Note 10    | Unknown  |
 | sdm712     | SDM712    | Snapdragon 712  | Xiaomi Mi 9 SE          | Unknown  |
+| sdm712     | SDM712    | Snapdragon 712  | Realme 5 Pro            | Unknown  |
 | sdm712     | SDM712    | Snapdragon 712  | Realme XT               | Unknown  |
 | sm7125     | SM7125    | Snapdragon 720G | Xiaomi Redmi Note 9S    | Unknown  |
 | sm7150     | SM7150-AA | Snapdragon 730  | Xiaomi Mi 9T            | Unknown  |
