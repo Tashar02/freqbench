@@ -1,0 +1,2 @@
+Kernel: Linux version 4.19.237-Scarlet-X-v1.0+ (Tashar@Endeavour) (Neutron clang version 15.0.0 (https://github.com/llvm/llvm-project.git 352453569b2b044ddd5bd4df0074ff9863828b6f), LLD 15.0.0) #1 SMP PREEMPT Wed Mar 30 12:57:51 +06 2022
+Python: Python 3.8.5
