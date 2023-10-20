@@ -1,0 +1,2 @@
+Kernel: Linux version 4.19.294-Scarlet-X-v10.3 (Tashar@Gitpod) (Neutron clang version 18.0.0, Neutron LLD 18.0.0) #1 SMP PREEMPT Fri Oct 20 08:56:21 UTC 2023
+Python: Python 3.8.5
