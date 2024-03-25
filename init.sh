@@ -26,7 +26,8 @@ reboot_end() {
     # Wait for manual forced reboot
     #sleep inf
 
-    reboot_with_cmd bootloader
+    echo 1 > /proc/sys/kernel/sysrq
+    echo o > /proc/sysrq-trigger
 }
 
 saving_logs=false
